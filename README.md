@@ -8,7 +8,7 @@ First, run the development server:
 npm run dev
 ```
 
-Contact Me at Open [https://shrey-contact-me.vercel.app](Click Me) with your browser to see the result.
+[https://shrey-contact-me.vercel.app](Contact Me)
 
 ```bash
 KINDE_CLIENT_ID=
