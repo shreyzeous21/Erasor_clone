@@ -22,6 +22,9 @@ KINDE_POST_LOGIN_REDIRECT_URL=
 CONVEX_DEPLOYMENT=
 
 NEXT_PUBLIC_CONVEX_URL=
+
+#this if for deploying command for building the app on vercel
+npx convex deploy --cmd 'npm run build'
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
